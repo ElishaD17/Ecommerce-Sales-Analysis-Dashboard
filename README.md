@@ -63,6 +63,9 @@ Follow these instructions to set up and use the dashboard on your local machine.
 7. **Final Touches**
    - Add titles and labels to all charts.
    - Ensure all elements are aligned and visually coherent.
+   - 
+## Dashboard
+![mv](excell dashboard.png)
 
 ## Usage
 1. Open the Excel dashboard file.
