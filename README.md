@@ -65,7 +65,8 @@ Follow these instructions to set up and use the dashboard on your local machine.
    - Ensure all elements are aligned and visually coherent.
    - 
 ## Dashboard
-![mv](excell dashboard.png)
+
+![mv](ED.png)
 
 ## Usage
 1. Open the Excel dashboard file.
